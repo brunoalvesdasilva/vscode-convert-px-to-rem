@@ -2,6 +2,8 @@
 
 문서내 선택된 영역에 대한 px을 rem으로 변환합니다.
 
+[pt-BR] Converte px em rem na área selecionada do documento.
+
 ## How to use
 
 - 코드내 변환할 영역 선택
